@@ -1,0 +1,7 @@
+WEKA/data/
+hadoop/data/
+dataset/
+*.pdf
+*.PDF
+*.txt
+*.csv
